@@ -1,0 +1,27 @@
+
+
+java.lang.StringIndexOutOfBoundsException: length=1; index=-1
+	at java.lang.String.charAt(Native Method)
+	at de.reckendrees.systems.tui.expert.managers.suggestions.e.a(Unknown Source:104)
+	at de.reckendrees.systems.tui.expert.managers.suggestions.d.onTextChanged(Unknown Source:6)
+	at android.widget.TextView.sendOnTextChanged(TextView.java:10811)
+	at android.widget.TextView.handleTextChanged(TextView.java:10926)
+	at android.widget.TextView$ChangeWatcher.onTextChanged(TextView.java:13837)
+	at android.text.SpannableStringBuilder.sendTextChanged(SpannableStringBuilder.java:1268)
+	at android.text.SpannableStringBuilder.replace(SpannableStringBuilder.java:577)
+	at android.text.SpannableStringBuilder.replace(SpannableStringBuilder.java:508)
+	at android.text.SpannableStringBuilder.replace(SpannableStringBuilder.java:38)
+	at android.view.inputmethod.BaseInputConnection.replaceText(BaseInputConnection.java:941)
+	at android.view.inputmethod.BaseInputConnection.commitText(BaseInputConnection.java:219)
+	at com.android.internal.widget.EditableInputConnection.commitText(EditableInputConnection.java:204)
+	at com.android.internal.view.IInputConnectionWrapper.executeMessage(IInputConnectionWrapper.java:549)
+	at com.android.internal.view.IInputConnectionWrapper$MyHandler.handleMessage(IInputConnectionWrapper.java:111)
+	at android.os.Handler.dispatchMessage(Handler.java:106)
+	at android.os.Looper.loopOnce(Looper.java:201)
+	at android.os.Looper.loop(Looper.java:288)
+	at android.app.ActivityThread.main(ActivityThread.java:7872)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.RuntimeInit$MethodAndArgsCaller.run(RuntimeInit.java:550)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1003)
+
+----------------------------

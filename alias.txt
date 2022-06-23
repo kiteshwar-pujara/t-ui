@@ -1,0 +1,12 @@
+=phone
+=messages
+=photos
+=whatsapp 
+=Telegram
+=Instagram
+=Snapchat 
+=play store
+=com.android.settings
+=Duckduckgo
+=YouTube
+=Spotify

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<UI>
+<battery_index value="2"/>
+<battery_size value="9"/>
+<bgrect_params value="2,0"/>
+<device_index value="0"/>
+<device_name value="Your name"/>
+ 
+<device_size value="9"/>
+ 
+<display_margin_mm value="0,1,0,0"/>
+<enable_battery_status value="true"/>
+ 
+<fullscreen value="false"/>
+ 
+<ignore_bar_color value="false"/>
+ 
+<input_area_margins value="3,3,0,0"/>
+ 
+<input_bottom value="true"/>
+ 
+<input_field_margins value="3,3,0,0"/>
+<input_output_size value="9"/>
+ 
+<input_prefix value="~ "/>
+ 
+<input_root_prefix value="#"/>
+ 
+<network_index value="2"/>
+ 
+<network_size value="9"/>
+ 
+<notes_divider value="%n"/>
+ 
+<notes_footer value="%(%n - --- ----- --- -/)"/>
+<notes_header value="%( ---- Notes : %c ----%n/No notes)"/>
+ 
+<notes_index value="5"/>
+<notes_max_lines value="10"/>
+<notes_size value="9"/>
+<output_field_margins value="3,3,0,0"/>
+<ram_index value="1"/>
+<ram_size value="9"/>
+<shadow_params value="2,2,0.2"/>
+<show_app_installed value="true"/>
+<show_app_uninstalled value="true"/>
+<show_battery value="true"/>
+ 
+<show_device_name value="true"/>
+ 
+<show_enter_button value="true"/>
+ 
+<show_network_info value="true"/>
+ 
+<show_notes value="true"/>
+<show_ram value="true"/>
+<show_restart_message value="true"/>
+<show_scroll_notes_message value="true"/>
+<show_session_info value="true"/>
+<show_storage_info value="true"/>
+<show_time value="true"/>
+<show_unlock_counter value="false"/>
+<show_weather value="false"/>
+<status_lines_alignment value="-1,-1,-1,-1,0,0,-1,-1"/>
+ 
+<status_lines_margins value="0"/>
+<statusbar_light_icons value="true"/>
+ 
+<storage_index value="1"/>
+<storage_size value="9"/>
+<suggestions_area_margin value="3,3,0,0"/>
+<system_font value="false"/>
+<system_wallpaper value="false"/>
+<text_redraw_times value="1"/>
+<time_index value="0"/>
+<time_size value="9"/>
+<toolbar_margins value="3,3,0,0"/>
+<unlock_index value="8"/>
+<unlock_size value="9"/>
+<username value="Your name "/>
+ 
+<weather_index value="6"/>
+<weather_size value="9"/>
+</UI>
